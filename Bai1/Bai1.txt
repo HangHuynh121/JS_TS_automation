@@ -1,0 +1,7 @@
+/*Biến có như 1 cái hộp có 2 thành phần
+    Nhăn: tên biễn
+    bên trong hộp : giá trị Biến
+Biễn có 3 bước tạo: 
+    Khai bao - Tên (Nhãn) - thành phần (value)
+*/
+
